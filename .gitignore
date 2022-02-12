@@ -1,0 +1,30 @@
+# Nintendo files
+*.szs
+*.brres
+*.kmp
+
+# HxD backup file
+*.bak
+
+# C object files
+*.o
+
+# Wiimms tools files
+*.u8
+*.d/
+
+# Micorsoft files
+*.docx
+*.xlsx
+
+# Executable
+*.exe
+
+# Graphics
+*.png
+*.jpg
+*.exr
+
+# Blender files
+*.blend
+*.blend1
